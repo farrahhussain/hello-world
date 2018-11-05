@@ -1,2 +1,3 @@
 # hello-world
-practice reposityory
+practice repository
+My name is Farrah Hussain.
